@@ -3,6 +3,7 @@ A fully-fledged load testing application with a structured design that adheres t
 
 
 ## Directory Structure ##
+```
 load-tester/
 ├── cmd/
 │   └── main.go        # Application entry point
@@ -17,3 +18,4 @@ load-tester/
 ├── embedded/
 │   └── requests.json  # Embedded JSON configuration
 └── README.md
+```
